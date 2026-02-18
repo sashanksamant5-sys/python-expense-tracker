@@ -1,0 +1,22 @@
+[
+    {
+        "time": "18-02-2026 | 10:34:53",
+        "amount": 399.0,
+        "category": "Shopping"
+    },
+    {
+        "time": "18-02-2026 | 10:37:30",
+        "amount": 200.0,
+        "category": "Food"
+    },
+    {
+        "time": "18-02-2026 | 10:37:48",
+        "amount": 233.0,
+        "category": "parking"
+    },
+    {
+        "time": "18-02-2026 | 10:38:02",
+        "amount": 655.0,
+        "category": "Shopping"
+    }
+]
