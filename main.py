@@ -1,3 +1,5 @@
+# Author: Sashank Samant.
+# Project: Python Expense Tracker
 import json
 from datetime import datetime
 expenses=[]
