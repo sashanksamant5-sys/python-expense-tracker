@@ -1,5 +1,6 @@
 # Python Expense Tracker
-
+[![View python-expense-tracker on GitHub](https://img.shields.io/github/stars/sashanksamant5-sys/python-expense-tracker?color=232323&label=python-expense-tracker&logo=github&labelColor=232323)](https://github.com/sashanksamant5-sys/python-expense-tracker) 
+![Written in Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)\
 A simple command-line expense tracker built using Python to manage daily spending.
 
 ## Features
